@@ -1,0 +1,20 @@
+{
+	"folders":
+	[
+		{
+			"path": "public/_layouts"
+		},
+		{
+			"path": "public/_includes"
+		},
+		{
+			"path": "public/_posts"
+		},
+		{
+			"path": "public/_scss"
+		},
+		{
+			"path": "public/_data"
+		}
+	]
+}

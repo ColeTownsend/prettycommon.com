@@ -1,0 +1,65 @@
+// Typography
+$sans-serif: "Larsseit", "NeuzeitGrotesk", "Neuzeit Grotesk", "Avenir Next", sans-serif;
+$serif: $georgia;
+$base-font-family: $sans-serif;
+$header-font-family: $base-font-family;
+
+// Font Sizes
+$base-font-size: 1em;
+$h1-font-size: em(76.29, 20);
+$h2-font-size: em(61.03, 20);
+$h3-font-size: em(48.82, 20);
+$h4-font-size: em(39.06, 20);
+$h5-font-size: em(31.25, 20);
+$h6-font-size: em(24, 20);
+
+// Line height
+$base-line-height: 1.5;
+$header-line-height: 1.25;
+
+// Other Sizes
+$base-border-radius: 3px;
+$base-spacing: $base-line-height * 1em;
+$base-z-index: 0;
+
+// Colors
+$blue: #477DCA;
+$dark-gray: #333;
+$medium-gray: #999;
+$light-gray: #DDD;
+$light-red: #FBE3E4;
+$light-yellow: #FFF6BF;
+$light-green: #50E3C2;
+
+// Background Color
+$base-background-color: white;
+
+// Font Colors
+$base-font-color: #171616;
+$base-accent-color: $light-green;
+
+// Link Colors
+$base-link-color: $base-accent-color;
+$hover-link-color: darken($base-accent-color, 15);
+$base-button-color: $base-link-color;
+$hover-button-color: $hover-link-color;
+
+// Flash Colors
+$alert-color: $light-yellow;
+$error-color: $light-red;
+$notice-color: lighten($base-accent-color, 40);
+$success-color: $light-green;
+
+// Border color
+$base-border-color: $base-font-color;
+$base-border: 2px solid $base-border-color;
+
+// Forms
+$form-border-color: $base-border-color;
+$form-border-color-hover: darken($base-border-color, 10);
+$form-border-color-focus: $base-accent-color;
+$form-border-radius: $base-border-radius;
+$form-box-shadow: none;
+$form-box-shadow-focus: none;
+$form-font-size: $base-font-size;
+$form-font-family: $base-font-family;

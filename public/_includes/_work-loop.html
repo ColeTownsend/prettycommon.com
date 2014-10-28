@@ -1,0 +1,16 @@
+<section id="project">
+  <article>
+    <ul class="grid-items">
+    {% for project in site.data.projects %}
+      <li class="grid-item {{ project.type }}">
+        <span class="project" style="background-image: url({{ site.baseurl }}/images/{{ project.handle }}.jpg);"></span>
+        <a target="blank" href="{{ project.url }}"></a>
+        <span class="colorize"></span>
+        <h5>{{ project.title }}</h5>
+        <p>{{ project.info | truncate:100 }}</p>
+        <p>See it in action &rarr;</p>
+      </li>
+    {% endfor %}
+    </ul>
+  </article>
+</section>

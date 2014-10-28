@@ -1,0 +1,48 @@
+header[role="main-header"] {
+  @extend %container;
+  margin: 1.5em 1em;
+  margin-bottom: 0;
+  box-shadow: inset 0 2px 0 0 black;
+  padding: 1.5em 0;
+  font-color: $base-font-color;
+  position: relative;
+  @include media($medium-screen) {
+    padding: 1.5em 0;
+    margin: 0 auto;
+    margin-top: 1.5em;
+  }
+  hgroup {
+    display: block;
+    font-size: $h5-font-size;
+    font-weight: bold;
+    @include media($medium-screen-up) {
+      display: inline-block;
+      font-size: $h6-font-size;
+    }
+  }
+  ul {
+    list-style-type: none;
+    @include media($medium-screen-up) {
+      display: inline-block;
+      display: inline-block;
+      position: absolute;
+      right: 0;
+      top: 1.5em;
+    }
+  }
+  ul li {
+    font-size: $h5-font-size;
+    @include media($medium-screen-up) {
+      text-align: right;
+      display: inline-block;
+      margin-right: 1em;
+      font-size: $h6-font-size;
+    }
+  }
+  a {
+    color: $base-font-color;
+    &:hover {
+      border-bottom: 2px solid $base-font-color;
+    }
+  }
+}

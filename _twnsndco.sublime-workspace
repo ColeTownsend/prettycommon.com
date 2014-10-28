@@ -1,0 +1,886 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"minif",
+				"minify-css"
+			],
+			[
+				"border-t",
+				"border-top-left-radius"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"base",
+				"base-body-color"
+			],
+			[
+				"pos",
+				"pos-a	position: absolute;"
+			],
+			[
+				"lsp",
+				"letter-spacing"
+			],
+			[
+				"base-",
+				"base-line-height"
+			],
+			[
+				"base-border",
+				"base-border-radius"
+			],
+			[
+				"to",
+				"toggle	.toggle() (show/hide)"
+			],
+			[
+				"fade",
+				"fadeToggle	.fadeToggle()"
+			],
+			[
+				"toggle",
+				"toggleClass	.toggleClass()"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"ta",
+				"table-cell"
+			],
+			[
+				"borde",
+				"border-radius"
+			],
+			[
+				"color",
+				"color_range"
+			],
+			[
+				"bacg",
+				"background-color"
+			],
+			[
+				"cell",
+				"cellAction"
+			],
+			[
+				"pro",
+				"properties"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"backg",
+				"backgroundColor"
+			],
+			[
+				"map",
+				"map_range"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"mar",
+				"margin-left"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/twnsnd/Documents/www/sites/chx-alt/scss/_styles.scss",
+			"settings":
+			{
+				"buffer_size": 336,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/_layouts/home.html",
+			"settings":
+			{
+				"buffer_size": 1694,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/twnsnd/Documents/www/sites/Demo/Demo.html",
+			"settings":
+			{
+				"buffer_size": 217,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/jekyll.sublime-build",
+	"command_palette":
+	{
+		"height": 400.0,
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"lower",
+				"Convert Case: Lower Case"
+			],
+			[
+				"subse",
+				"Snippet: Comment - Subsection comment"
+			],
+			[
+				"section",
+				"Snippet: Comment - Section header comment"
+			],
+			[
+				"sub ",
+				"Snippet: Comment - Subsection comment"
+			],
+			[
+				"comment",
+				"Snippet: Comment - Block style comment"
+			],
+			[
+				"syntax scs",
+				"Set Syntax: SCSS"
+			],
+			[
+				"previ",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"markdown",
+				"Set Syntax: Markdown"
+			],
+			[
+				"markd",
+				"Set Syntax: Markdown Extended"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"markdow",
+				"Set Syntax: Markdown"
+			],
+			[
+				"preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown Extended"
+			],
+			[
+				"mar",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"ejs",
+				"Set Syntax: EJS (<% and %>)"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"ruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"markdo",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"pla",
+				"Placehold.it: Insert Image"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"jad",
+				"Set Syntax: Jade"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"syntax scss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"syntax gfm",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"set syntax je",
+				"Set Syntax: Markdown (Jekyll)"
+			],
+			[
+				"syntax mark",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"syntax jek",
+				"Set Syntax: Markdown (Jekyll)"
+			],
+			[
+				"vie",
+				"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+			],
+			[
+				"markdown gf",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"view",
+				"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+			],
+			[
+				"brows",
+				"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+			],
+			[
+				"",
+				"Autoprefix CSS"
+			],
+			[
+				"prev",
+				"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+			],
+			[
+				"italic",
+				"BracketHighlighter: Wrap Selections with Brackets"
+			],
+			[
+				"itali",
+				"BracketHighlighter: Wrap Selections with Brackets"
+			],
+			[
+				"markdown lis",
+				"MarkdownEditing: Fix Underlined Headers"
+			],
+			[
+				"syntax ma",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"set syntax gf",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"preve",
+				"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+			],
+			[
+				"gith",
+				"MdCodeBlock: Wrap Github Flavered Code Block"
+			],
+			[
+				"syntax m",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"preview ",
+				"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+			],
+			[
+				"markdown preview",
+				"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+			],
+			[
+				"gfm",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"wrap git",
+				"MdCodeBlock: Wrap Github Flavered Code Block"
+			],
+			[
+				"md",
+				"MdCodeBlock: Wrap Github Flavered Code Block"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Markdown_header_(mdh1)"
+			],
+			[
+				"set syntax mark",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"PHP Code Sniffer: ",
+				"PHP Code Sniffer: Sniff this file"
+			],
+			[
+				"git",
+				"Git: New Branch"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"packag",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"instl",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Add Repository"
+			],
+			[
+				"Insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Packa",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 105.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/twnsnd/Documents/www/sites/chx-alt/scss/_grid-settings.scss",
+		"/Users/twnsnd/Documents/www/sites/chx-alt/scss/_shop.scss",
+		"/Users/twnsnd/Documents/www/sites/schilit/wwwroot/anchor/themes/schilit/scss/_type.scss",
+		"/Users/twnsnd/Documents/www/sites/chx-alt/scss/_normalize.scss",
+		"/Users/twnsnd/Documents/gits/twnsnd.co/public/_scss/_grid-settings.scss",
+		"/Users/twnsnd/Documents/gits/twnsnd.co/public/_scss/modules/_works.scss",
+		"/Users/twnsnd/Documents/gits/twnsnd.co/public/_scss/i.scss",
+		"/Users/twnsnd/Documents/gits/twnsnd.co/public/_scss/modules/_globals.scss",
+		"/Users/twnsnd/Documents/www/sites/chx-alt/scss/_styles.scss",
+		"/Users/twnsnd/Documents/gits/twnsnd.co/public/_layouts/default.html",
+		"/Users/twnsnd/Documents/gits/twnsnd.co/public/_posts/2014-06-12-thenews.md",
+		"/Users/twnsnd/Documents/gits/twnsnd.co/public/_scss/base/_layouts.scss",
+		"/Users/twnsnd/Documents/gits/twnsnd.co/public/_posts/2014-03-25-goodrich-coffee.md",
+		"/Users/twnsnd/Documents/gits/twnsnd.co/public/_scss/base/_typography.scss",
+		"/Users/twnsnd/Documents/gits/twnsnd.co/public/_layouts/portfolio.html",
+		"/Users/twnsnd/Documents/gits/twnsnd.co/public/_scss/modules/_post-header.scss",
+		"/Users/twnsnd/Documents/www/sites/portfolio/_sass/_posts.scss",
+		"/Users/twnsnd/Documents/gits/twnsnd.co/public/_scss/base/_variables.scss",
+		"/Users/twnsnd/Documents/gits/twnsnd.co/public/_scss/base/_mixins.scss",
+		"/Users/twnsnd/Documents/gits/twnsnd.co/public/_scss/base/_modular-scale.scss",
+		"/Users/twnsnd/Documents/gits/twnsnd.co/public/_scss/modules/_hero.scss",
+		"/Users/twnsnd/Documents/gits/twnsnd.co/public/_includes/_work-loop.html",
+		"/Users/twnsnd/Documents/gits/twnsnd.co/public/_layouts/home.html",
+		"/Users/twnsnd/Documents/gits/twnsnd.co/public/_layouts/post.html",
+		"/Users/twnsnd/Documents/gits/twnsnd.co/public/_posts/2014-05-29-purple-valley-coffee-club.md",
+		"/Users/twnsnd/Documents/gits/twnsnd.co/public/_posts/2014-03-26-meeet.md",
+		"/Users/twnsnd/Documents/gits/twnsnd.co/public/_posts/2014-04-11-tosin-af.md",
+		"/Users/twnsnd/Documents/gits/twnsnd.co/public/_layouts/test.html",
+		"/Users/twnsnd/Documents/gits/twnsnd.co/public/_includes/_work-demo.html",
+		"/Users/twnsnd/Documents/gits/twnsnd.co/public/_includes/_js_includes.html",
+		"/Users/twnsnd/Documents/www/sites/portfolio/_sass/_about-me.scss",
+		"/Users/twnsnd/Documents/gits/twnsnd.co/public/_scss/base/_blocks.scss",
+		"/Users/twnsnd/Documents/gits/twnsnd.co/public/_includes/_project-loop.html",
+		"/Users/twnsnd/Documents/gits/twnsnd.co/public/css/i.css",
+		"/Users/twnsnd/Documents/gits/twnsnd.co/public/css/i.css.map",
+		"/Users/twnsnd/Documents/gits/twnsnd.co/public/_includes/_footer.html",
+		"/Users/twnsnd/Documents/gits/twnsnd.co/public/_scss/modules/_footer.scss",
+		"/Users/twnsnd/Documents/gits/twnsnd.co/public/_includes/_head.html",
+		"/Users/twnsnd/Documents/gits/twnsnd.co/public/_posts/2014-02-25-williams-outing-club.md",
+		"/Users/twnsnd/Documents/gits/twnsnd.co/public/_includes/_navigation_main.html",
+		"/Users/twnsnd/Documents/gits/twnsnd.co/public/_scss/modules/_nav.scss",
+		"/Users/twnsnd/Documents/gits/twnsnd.co/public/_scss/modules/_header.scss",
+		"/Users/twnsnd/Documents/gits/twnsnd.co/public/_posts/2014-02-27-sketch-app.md",
+		"/Users/twnsnd/Documents/gits/twnsnd.co/public/_data/work_status.yml",
+		"/Users/twnsnd/Documents/gits/twnsnd.co/public/_includes/_search-form.html",
+		"/Users/twnsnd/Documents/gits/twnsnd.co/public/_scss/modules/_project.scss",
+		"/Users/twnsnd/Documents/www/sites/portfolio/_layouts/home.html",
+		"/Users/twnsnd/Documents/www/sites/portfolio/_sass/_home-page.scss",
+		"/Users/twnsnd/Documents/gits/twnsnd.co/public/_scss/base/_buttons.scss",
+		"/Users/twnsnd/Documents/gits/twnsnd.co/public/_scss/_footer.scss",
+		"/Users/twnsnd/Documents/gits/twnsnd.co/public/_scss/base/_reset.scss",
+		"/Users/twnsnd/Library/Application Support/Sublime Text 2/Packages/Alignment/Default (OSX).sublime-keymap",
+		"/Users/twnsnd/Library/Application Support/Sublime Text 2/Packages/Alignment/Base File.sublime-settings",
+		"/Users/twnsnd/Documents/www/sites/portfolio/_sass/_styles.scss",
+		"/Users/twnsnd/Documents/www/sites/portfolio/_sass/_mixins.scss",
+		"/Users/twnsnd/Documents/www/sites/portfolio/_sass/_footer.scss",
+		"/Users/twnsnd/Documents/gits/twnsnd.co/gulpfile.js",
+		"/Users/twnsnd/Documents/gits/twnsnd.co/dist/css/i.css",
+		"/Users/twnsnd/Documents/gits/twnsnd.co/public/fonts/nzg.js",
+		"/Users/twnsnd/Downloads/Neuzeit_Grotesk/StartHere.html",
+		"/Users/twnsnd/Documents/gits/twnsnd.co/_config.yml",
+		"/Users/twnsnd/Documents/gits/twnsnd.co/public/_data/projects.yml",
+		"/Users/twnsnd/Documents/gits/twnsnd.co/public/_data/links.yml",
+		"/Users/twnsnd/Documents/gits/twnsnd.co/public/_data/_projects.yml",
+		"/Users/twnsnd/Documents/www/sites/pvccoffee/_layouts/members.html",
+		"/Users/twnsnd/Documents/gits/twnsnd.co/package.json",
+		"/Users/twnsnd/Downloads/accordion/style.css",
+		"/Users/twnsnd/Documents/gits/Meeet-Blog/stylesheets/scss/_post.scss",
+		"/Users/twnsnd/Documents/gits/Meeet-Blog/stylesheets/scss/_modules.scss",
+		"/Users/twnsnd/Documents/gits/Meeet-Blog/stylesheets/scss/_main-content.scss",
+		"/Users/twnsnd/Documents/gits/Meeet-Blog/stylesheets/scss/_styles.scss",
+		"/Users/twnsnd/Documents/gits/Meeet-Blog/stylesheets/scss/_activity.scss",
+		"/Users/twnsnd/Documents/gits/twnsnd.co/public/_components/am-grid/dist/grid.scss",
+		"/Users/twnsnd/Documents/www/sites/pvccoffee/_sass/_mixins.scss",
+		"/Users/twnsnd/Documents/www/sites/pvccoffee/_sass/_type.scss",
+		"/Users/twnsnd/Documents/www/sites/portfolio/_sass/_variables.scss",
+		"/Users/twnsnd/Downloads/sassline-master/index.html",
+		"/Users/twnsnd/Documents/www/sites/portfolio/_includes/_navigation_main.html",
+		"/Users/twnsnd/Documents/www/sites/portfolio/_sass/_navigation.scss",
+		"/Users/twnsnd/Documents/gits/twnsnd.co/public/index.html",
+		"/Users/twnsnd/Documents/gits/twnsnd.co/public/_components/am-grid/gulpfile.js",
+		"/Users/twnsnd/Documents/www/sites/portfolio/_layouts/portfolio.html",
+		"/Users/twnsnd/Documents/gits/twnsnd.co/public/_scss/_normalize.scss",
+		"/Users/twnsnd/Documents/gits/twnsnd.co/public/_scss/_instantclick.scss",
+		"/Users/twnsnd/Documents/www/sites/portfolio/_sass/_grid-settings.scss",
+		"/Users/twnsnd/Documents/gits/twnsnd.co/_config 2.yml",
+		"/Users/twnsnd/Documents/gits/twnsnd.co/public/assets/_scss/base/_typography.scss",
+		"/Users/twnsnd/Documents/gits/twnsnd.co/settings.json",
+		"/Users/twnsnd/Documents/gits/twnsnd.co/dist/index.html",
+		"/Users/twnsnd/Documents/gits/twnsnd.co/_dev-config.yml",
+		"/Users/twnsnd/Documents/gits/twnsnd.co/_config.dev..yml",
+		"/Users/twnsnd/Documents/gits/jekyll-gulp-sass-browser-sync/gulpfile.js",
+		"/Users/twnsnd/Documents/gits/twnsnd.co/public/assets/_scss/_footer.scss",
+		"/Users/twnsnd/Documents/gits/twnsnd.co/bower.json",
+		"/Users/twnsnd/Documents/gits/twnsnd.co/public/assets/_scss/base/_layouts.scss",
+		"/Users/twnsnd/Documents/gits/twnsnd.co/public/assets/_scss/base/_mixins.scss",
+		"/Users/twnsnd/Documents/gits/twnsnd.co/public/assets/_scss/base/_modular-scale.scss",
+		"/Users/twnsnd/Documents/gits/twnsnd.co/public/assets/_scss/base/_reset.scss",
+		"/Users/twnsnd/Documents/gits/twnsnd.co/public/assets/_scss/base/_variables.scss",
+		"/Users/twnsnd/Documents/gits/twnsnd.co/public/assets/_scss/i.scss",
+		"/Users/twnsnd/Documents/gits/twnsnd.co/public/assets/_scss/modules/_footer.scss",
+		"/Users/twnsnd/Documents/gits/twnsnd.co/public/assets/_scss/modules/_globals.scss",
+		"/Users/twnsnd/Documents/gits/twnsnd.co/public/assets/_scss/modules/_header.scss",
+		"/Users/twnsnd/Documents/gits/twnsnd.co/dist/assets/css/i.css",
+		"/Users/twnsnd/Documents/gits/twnsnd.co/public/assets/_scss/modules/_nav.scss",
+		"/Users/twnsnd/Downloads/sassline-master/assets/sass/style.scss",
+		"/Users/twnsnd/Dropbox/Williams/Fall 2014/WGSS 101/Short Essay 1/Townsend Short Essay 1 WGSS 101.md",
+		"/Users/twnsnd/Downloads/sassline-master/assets/sass/base/_layouts.scss",
+		"/Users/twnsnd/Downloads/sassline-master/assets/sass/base/_variables.scss",
+		"/Users/twnsnd/Downloads/sassline-master/assets/sass/base/_modular-scale.scss",
+		"/Users/twnsnd/Documents/gits/twnsnd.co/public/_components/typeplate-starter-kit/scss/_vars-typeplate.scss",
+		"/Users/twnsnd/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/twnsnd/Documents/gits/twnsnd.co/public/_components/typeplate-starter-kit/scss/_typeplate.scss",
+		"/Users/twnsnd/Library/Application Support/Sublime Text 2/Packages/MarkdownEditing/Markdown (Standard).sublime-settings",
+		"/Users/twnsnd/Library/Application Support/Sublime Text 2/Packages/User/Markdown (Standard).sublime-settings",
+		"/Users/twnsnd/Dropbox/Williams/Fall 2014/PHIL 229/Essay 1 Philo.md",
+		"/Users/twnsnd/Library/Application Support/Sublime Text 2/Packages/User/Markdown.sublime-settings",
+		"/Users/twnsnd/Documents/www/sites/pvccoffee/Rakefile",
+		"/Users/twnsnd/Library/Application Support/Sublime Text 2/Packages/MarkdownEditing/README.md",
+		"/Users/twnsnd/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/twnsnd/Library/Application Support/Sublime Text 2/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
+		"/Users/twnsnd/Library/Application Support/MacDown/Styles/Baseline.css",
+		"/Users/twnsnd/Downloads/sample-3/sample.css",
+		"/Users/twnsnd/Library/Application Support/MacDown/Styles/Github (Edited).css",
+		"/Users/twnsnd/Library/Application Support/Sublime Text 2/Packages/User/MarkdownPreview.sublime-settings",
+		"/Users/twnsnd/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/twnsnd/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/twnsnd/Library/Application Support/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"",
+			"/Users/twnsnd/Documents/www/sites/portfolio/_sass",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			".full",
+			"padding",
+			"section",
+			"base-",
+			"flex-basis",
+			"am-block",
+			"%container",
+			"ul",
+			"ul li",
+			"ul",
+			"am-position",
+			"hr",
+			"list",
+			"ul",
+			"li",
+			"info",
+			"caption",
+			"code",
+			"class=\"typeset\"",
+			"typeset",
+			"media",
+			"$small",
+			"breakpoint",
+			"measure",
+			"hero",
+			"max-width",
+			"h1",
+			"nav",
+			"hero",
+			"h1",
+			"hero",
+			"%container",
+			"concat",
+			"images",
+			"instant",
+			"webfonts",
+			"breakpoint",
+			"black",
+			"endif",
+			"hero",
+			"small",
+			"link",
+			"real-black",
+			"hero",
+			"length",
+			"nav",
+			".col-md-offset-",
+			".col-md-",
+			"linkColor",
+			"baselin",
+			"sassline",
+			"scale",
+			"jekyll-build",
+			"img",
+			"sass",
+			"front ln",
+			"highlug",
+			"command",
+			"project",
+			"article",
+			"blockquote",
+			"block",
+			";\n",
+			"public",
+			"paper",
+			"el",
+			"\\",
+			"-",
+			"circle",
+			"prev",
+			"next_",
+			"listing",
+			"post-list",
+			"post",
+			"article",
+			"post",
+			"listing",
+			"footer",
+			"block-2",
+			"art-form",
+			"art",
+			"circle",
+			"cirlce",
+			"art",
+			"light-black",
+			"darker-gray",
+			"base-body-font",
+			"mono",
+			"monobase",
+			"mono",
+			"purple",
+			".banner",
+			"spread",
+			"footer",
+			"logo",
+			"border-color",
+			"menu",
+			"logo",
+			"small",
+			"padding",
+			"letter-spacing",
+			"activity",
+			"item-activity",
+			".avatar",
+			"button",
+			"modal-toggle",
+			"modal",
+			"fire",
+			"modal",
+			"modal-toggle",
+			"tag",
+			"letter-spacing",
+			"list-head",
+			"edit",
+			"avat",
+			"label",
+			"ignore",
+			"whitelight",
+			"@include",
+			"border",
+			"inner",
+			"tag",
+			"success",
+			"grid-3",
+			"dropdown",
+			"aside",
+			"section",
+			"project"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/twnsnd/Documents/www/sites/chx-alt/scss/_styles.scss",
+					"settings":
+					{
+						"buffer_size": 336,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								103,
+								103
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "public/_layouts/home.html",
+					"settings":
+					{
+						"buffer_size": 1694,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								799,
+								799
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Jekyll/Syntaxes/HTML (Jekyll).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 297.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/twnsnd/Documents/www/sites/Demo/Demo.html",
+					"settings":
+					{
+						"buffer_size": 217,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								217,
+								217
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Handlebars/Handlebars.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 38.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.git":
+	{
+		"height": 134.0
+	},
+	"output.markdown":
+	{
+		"height": 134.0
+	},
+	"replace":
+	{
+		"height": 78.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"scss/_type.scss"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/ct/Documents/www/sites/pvccoffee/pvcc.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 342.0,
+	"status_bar_visible": true
+}

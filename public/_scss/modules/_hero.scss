@@ -1,0 +1,19 @@
+.hero {
+  position: relative;
+  max-height: 50vh;
+  min-height: 16rem;
+  display: block;
+  @include clearfix;
+  margin-bottom: 1.5em;
+  .hero-text {
+    margin-top: 4rem;
+    display: block;
+    position: relative;
+    @include span-columns(12);
+    line-height: 1.5;
+    @include media($medium-screen-up) {
+      margin-bottom: 0;
+      @include span-columns(8);
+    }
+  }
+}

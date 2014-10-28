@@ -1,0 +1,113 @@
+.grid-items {
+  .grid-item {
+    position: relative;
+    // @include transition(all .2s $base-transition-timing);
+    min-height: $base-line-height*12;
+    @include omega();
+    margin-bottom: $base-line-height;
+    @include transition(transform .2s $ease-in-out-quad);
+    // @include transition(box-shadow .2s $ease-in-out-quad);
+    height: 50vh;
+    max-height: 30em;
+    margin-bottom: 2.35765%;
+    padding: 1.5em;
+    border: $base-border;
+    &.dark {
+      color: white;
+      .colorize {
+        background: black;
+        opacity: .5;
+      }
+    }
+    &.light {
+    }
+    @for $i from 1 through 10 {
+      &:nth-child(#{$i}) {
+        @include span-columns(12);
+        min-height: 14em;
+      }
+    }
+    // tablet grid
+    @include media($medium-screen-up) {
+      &:nth-child(1) {
+        @include span-columns(7);
+      }
+      &:nth-child(2) {
+        @include span-columns(5);
+        @include omega();
+      }
+      &:nth-child(3) {
+        @include span-columns(5);
+      }
+      &:nth-child(4) {
+        @include span-columns(7);
+        @include omega();
+      }
+      &:nth-child(5) {
+        @include span-columns(12 of 12);
+        @include omega();
+        @include transition(margin .1s $ease-in-out-quad);
+      }
+      &:nth-child(6) {
+        @include span-columns(5);
+      }
+      &:nth-child(7) {
+        @include span-columns(7);
+        @include omega();
+      }
+      &:nth-child(8) {
+        @include span-columns(7);
+      }
+      &:nth-child(9) {
+        @include span-columns(5);
+        @include omega();
+      }
+      &:nth-child(10) {
+        @include span-columns(12 of 12);
+        @include omega();
+        @include transition(margin .1s $ease-in-out-quad);
+      }
+    }
+  }
+  .colorize {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 2;
+    @include transition(opacity .4s $ease-in-out-quad);
+  }
+  .project {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 1;
+    background-size: cover;
+  }
+  .grid-item > a {
+    padding: 2rem;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 10;
+    width: 100%;
+    height: 100%;
+    background-color: transparent;
+  }
+  .grid-item h1,h2,h3,h4,h5, p{
+    display: block;
+    max-width: 16rem;
+    z-index: 5;
+    position: relative;
+    @include transition(opacity .6s $ease-in-out-quad);
+
+  }
+  .grid-item h1,h2,h3,h4,h5 {
+    margin-bottom: 1.5em;
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Twnsnd",
+  "version": "0.0.1",
+  "dependencies": {
+    "jquery": "~1.10.2",
+    "modernizr": "*",
+    "normalize.scss": "*",
+    "bower-neat": "*",
+    "bower-bourbon": "*"
+  },
+  "devDependencies": {
+    "sass-list-maps": "~1.0.0"
+  }
+}
