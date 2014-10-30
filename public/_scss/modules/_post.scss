@@ -1,0 +1,29 @@
+.default {
+  article > table {
+    vertical-align: top;
+    td {
+      vertical-align: top;
+      &:first-of-type {
+        width: 33%;
+      }
+      h1,h2,h3,h4,h5,h6,p {
+        width: 100%;
+      }
+      p {
+        width: 100%;
+        font-size: $h6-font-size;
+      }
+    }
+  }
+  article > h1,h2,h3,h4,h5,h6,p {
+    @include span-columns(8);
+    @include clearfix;
+    float: none;
+  }
+  hr {
+    display: block;
+    width: 100%;
+    margin: calc(3em - 2px) 0;
+    @include clearfix;
+  }
+}

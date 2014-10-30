@@ -7,7 +7,7 @@
     margin-bottom: $base-line-height;
     @include transition(transform .2s $ease-in-out-quad);
     // @include transition(box-shadow .2s $ease-in-out-quad);
-    height: 50vh;
+    min-height: 15em;
     max-height: 30em;
     margin-bottom: 2.35765%;
     padding: 1.5em;
