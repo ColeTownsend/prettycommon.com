@@ -3,7 +3,8 @@ var glob        = require('glob');
 var browserSync = require('browser-sync');
 var notify      = require('gulp-notify');
 var plumber     = require('gulp-plumber');
-// var sass        = require('gulp-sass');
+// var sass       = require('gulp-sass');
+var neat        = require('node-neat').includePaths;
 var sass        = require('gulp-ruby-sass');
 // var sourcemaps = require('gulp-sourcemaps');
 var prefix      = require('gulp-autoprefixer');
@@ -27,6 +28,9 @@ var onError = function(err) {
     console.log(err);
 }
 
+var paths = {
+    scss: 'public/_scss/*.scss'
+};
 
 var messages = {
     jekyllBuild: '<span style="color: grey">Running:</span> $ jekyll build'
@@ -87,6 +91,21 @@ gulp.task('sass', function () {
         .pipe(browserSync.reload({stream:true}))
         .pipe(gulp.dest('public/css'));
 });
+
+// gulp.task('styles', function () {
+//     return gulp.src(paths.scss)
+//         .pipe(sass({
+//             includePaths: ['styles'].concat(neat),
+//             noCache: true,
+//             style: 'compressed',
+//             quiet: true,
+//             onError: browserSync.notify
+//         }))
+//         .pipe(prefix(['last 15 versions', '> 1%', 'ie 8', 'ie 7'], { cascade: true }))
+//         .pipe(gulp.dest('dist/css'))
+//         .pipe(browserSync.reload({stream:true}))
+//         .pipe(gulp.dest('public/css'));
+// });
 
 // css removal
 gulp.task('uncss', function() {
